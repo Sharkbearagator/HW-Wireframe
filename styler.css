@@ -1,0 +1,13 @@
+body{
+    background-color: grey
+}
+#header{
+    background-color: lightgrey;
+    padding: 5%;
+    float: left;
+}
+#nav{
+    background-color: lightgray;
+    padding: 5%;
+    float: left;
+}
