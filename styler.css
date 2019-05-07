@@ -13,6 +13,11 @@ body{
     text-align: center;
     border: 5%
 }
+section{
+    float: left;
+    padding: 51px;
+    background-color: #ebebeb;
+}
 #aside{
     background-color: #ebebeb;
     padding: 15%;
@@ -26,8 +31,16 @@ body{
 #article{
     color: #ebebeb;
     background-color: #777;
-    float: left;
     padding-bottom: 75px;
     padding-right: 75px;
     padding-left: 75px;
+    margin: 9px;
+}
+#h1{
+    color: #777;
+    background-color: #ebebeb;
+    margin: 10px;
+}
+#footer{
+    background-color: #ebebeb;
 }
