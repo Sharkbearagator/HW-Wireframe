@@ -23,6 +23,7 @@ section{
     background-color: #ebebeb;
     width: 495px;
     text-align: center;
+    margin-left: 10px;
 }
 #aside{
     background-color: #ebebeb;
@@ -33,6 +34,7 @@ section{
     margin: 1%;
     margin-bottom: 10px;
     margin-top: 0px;
+    margin-left: 19px;
     text-align: inherit;
 }
 #article{
@@ -58,4 +60,5 @@ section{
     clear: left;
     padding: 5%;
     text-align: center;
+    margin: 9px;
 }
