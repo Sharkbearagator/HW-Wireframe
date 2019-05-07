@@ -9,27 +9,11 @@ body{
     text-align: center;
     border: 5%
 }
-#nav{
-    background-color: lightgray;
-    text-align: center;
-    padding: 5%;
-    float: none;
-    margin: 3%;
-    border: 0%;
-
-}
-#section{
-    background-color: lightgrey;
-    float: left;
-    text-align: center;
-    margin: 3%;
-    padding: 18%;
-}
 #aside{
     background-color: lightgray;
-    padding: 10%;
-    float: right;
+    padding: 18%;
+    float: left;
     margin: 3%;
     text-align: unset;
-
+    border: 0%;
 }
